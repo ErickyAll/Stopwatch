@@ -1,0 +1,36 @@
+
+body {
+
+  background: url(img/A\ M\ R\ E\ N.jpg) no-repeat center/cover;
+    width: 100vw;
+    min-height: 812px;
+    height: 100vh;
+  background-color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: goldenrod;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+}
+
+div {
+  font-size: xx-large;
+  text-align: center;
+}
+
+button {
+  
+  width: 10rem;
+  height: 2rem;
+  background-color: goldenrod;
+  border-bottom-left-radius: 40%;
+  border-color: azure;
+
+}
+
+button:hover{
+  cursor: pointer;
+}
+
+h1 {
+  text-shadow: 1px 1px 1px azure, -1px 1px 1px azure, 1px -1px 1px azure, -1px -1px 1px azure;
+}
